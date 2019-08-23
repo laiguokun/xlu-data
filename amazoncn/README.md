@@ -1,7 +1,7 @@
 
 # Preprocessing Instruction
 
-The dataset can be downloaded from xxxx, and decompress it in this folder. To obtain the train, test, and unlabeled set split, you can run the following code:
+The dataset can be downloaded from [the google drive](https://drive.google.com/open?id=1LGA6MtgO-Yq0g5ycvUNZn9W4FkLLeeV2), and decompress it in this folder. To obtain the train, test, and unlabeled set split, you can run the following code:
 
 ```
 python parse-amazoncn.py
