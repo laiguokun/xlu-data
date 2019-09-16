@@ -8,7 +8,7 @@ After preprocessing, there are different tsv files. Each line is a data sample, 
 
 ## Augmentation Data
 
-We also provide our generated augmentation data in the augmentation folder. In each folder, the augmentation file is the augmentation samples generated based on the corresponding unlabeled data. 
+We also provide our generated augmentation data in the [google drive](https://drive.google.com/open?id=13Z9v9n4r7ieVT3wD41dhyQkOJyU7atcB). In each folder, the augmentation file is the augmentation samples generated based on the corresponding unlabeled data. 
 
 The data format for each line is "$label \t $original \t $augmented \t $original-lang \t $augmented-lang". The $original-lang field denote the language of the original sample. 
 
@@ -16,4 +16,4 @@ However, the texts of these files are processed by the BPE tokenization based on
 
 ## Pretrained XLM Models
 
-In the pretrained-models folder, we provide the pretrained XLM models based on the unlabeled data from different domains. The XLM models are based on XNLI15 version XLM and have the same storage format. 
+The pretrained-models used in this project are also in the [google drive](https://drive.google.com/open?id=1Sc7ffqWDSQEc66FMT24We7jkpp6ysn5l). We provide the pretrained XLM models based on the unlabeled data from different domains. The XLM models are based on XNLI15 version XLM and have the same storage format. 
