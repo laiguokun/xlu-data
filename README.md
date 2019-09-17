@@ -1,3 +1,11 @@
+# Bridging the domain gap in cross-lingual document classification 
+
+This repository contains the preprocessing scripts, augmentation data and pretrained models for our paper
+
+[Bridging the domain gap in cross-lingual document classification](http://arxiv.org/abs/1909.07009)
+
+Guokun Lai, Barlas Oguz, Veselin Stoyanov
+
 ## Data Preprocessing
 
 We include the data preprocessing scripts and download links for the cross-lingual sentiment classification task in the corresponding folder.
